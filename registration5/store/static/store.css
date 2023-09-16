@@ -1,0 +1,26 @@
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-image: url(images/IMG_20230411_084359.jpg);
+    background-size: cover;
+}
+h1{
+    background-color:aquamarine;
+    color:black;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+a{
+    font-size: 20px;
+    color: black;
+    background-color: darkslategray;
+    text-align: center;
+    padding: 10px;
+    
+}
